@@ -29,7 +29,8 @@ namespace CatalogoProdutos
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddScoped<IProdutosService, ProdutosService>();
-            services.AddScoped<IProdutosRepository, ProdutosRepository>();
+            //services.AddScoped<IProdutosRepository, ProdutosRepository>();
+            services.AddScoped<IProdutosRepository, ProdutosSQLServerRepository>();
 
             services.AddControllers();
             services.AddSwaggerGen(c =>

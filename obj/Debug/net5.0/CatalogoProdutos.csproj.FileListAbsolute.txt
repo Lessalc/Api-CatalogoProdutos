@@ -27,3 +27,9 @@ C:\Users\lucia\Bootcamp-Avanade\Projetos\ApiCatalogoProdutos\CatalogoProdutos\Ca
 C:\Users\lucia\Bootcamp-Avanade\Projetos\ApiCatalogoProdutos\CatalogoProdutos\CatalogoProdutos\obj\Debug\net5.0\ref\CatalogoProdutos.dll
 C:\Users\lucia\Bootcamp-Avanade\Projetos\ApiCatalogoProdutos\CatalogoProdutos\CatalogoProdutos\obj\Debug\net5.0\CatalogoProdutos.pdb
 C:\Users\lucia\Bootcamp-Avanade\Projetos\ApiCatalogoProdutos\CatalogoProdutos\CatalogoProdutos\obj\Debug\net5.0\CatalogoProdutos.genruntimeconfig.cache
+C:\Users\lucia\Bootcamp-Avanade\Projetos\ApiCatalogoProdutos\CatalogoProdutos\CatalogoProdutos\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\lucia\Bootcamp-Avanade\Projetos\ApiCatalogoProdutos\CatalogoProdutos\CatalogoProdutos\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\lucia\Bootcamp-Avanade\Projetos\ApiCatalogoProdutos\CatalogoProdutos\CatalogoProdutos\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\lucia\Bootcamp-Avanade\Projetos\ApiCatalogoProdutos\CatalogoProdutos\CatalogoProdutos\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\lucia\Bootcamp-Avanade\Projetos\ApiCatalogoProdutos\CatalogoProdutos\CatalogoProdutos\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lucia\Bootcamp-Avanade\Projetos\ApiCatalogoProdutos\CatalogoProdutos\CatalogoProdutos\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

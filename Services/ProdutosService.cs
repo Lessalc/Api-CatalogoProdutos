@@ -92,7 +92,7 @@ namespace CatalogoProdutos.Services
                 throw new ProdutoNaoCadastradoException();
 
             var entidadeProdutoGtni = await _produtosRepository.Obter(produto.Gtin); 
-            if (entidadeProdutoGtni.Count > 0)
+            if (entidadeProdutoGtni.Count > 0 && entidadeProduto.Gtin != produto.Gtin)
                 throw new GtniJaCadastradoException();
 
             entidadeProduto.Nome = produto.Nome;
